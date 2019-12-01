@@ -1,0 +1,18 @@
+[submodule "dev_env/.vim/pack/plugins/start/vim-airline"]
+	path = dev_env/.vim/pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "dev_env/.vim/pack/plugins/start/vim-racer"]
+	path = dev_env/.vim/pack/plugins/start/vim-racer
+	url = https://github.com/racer-rust/vim-racer
+[submodule "dev_env/.vim/pack/plugins/start/tagbar"]
+	path = dev_env/.vim/pack/plugins/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "dev_env/.vim/pack/plugins/start/syntastic"]
+	path = dev_env/.vim/pack/plugins/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "dev_env/.vim/pack/plugins/start/rust.vim"]
+	path = dev_env/.vim/pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "dev_env/.vim/pack/plugins/start/gruvbox"]
+	path = dev_env/.vim/pack/plugins/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
